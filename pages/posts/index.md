@@ -1,7 +1,7 @@
 ---
 type: posts
-title: blog.doged.ru
+title: Posts
 date: 2021-03-18
 ---
 
-# blog.doged.ru
+# Posts
